@@ -475,7 +475,7 @@ footer {
 
   /* PROJECTS */
   .projects-grid {
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(280px, 2fr));
     gap: 2rem;
   }
 
@@ -551,7 +551,6 @@ footer {
     font-size: 0.75rem;
     padding: 0.4rem 1rem;
   }
-
   .contact-link {
     width: 100%;
     padding: 1.2rem;
