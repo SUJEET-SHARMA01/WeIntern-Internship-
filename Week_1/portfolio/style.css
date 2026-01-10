@@ -30,13 +30,12 @@ nav {
   top: 0;
   left: 0;
   right: 0;
-  padding: 2rem 4rem;
+  padding: 1.5rem 2rem;
   display: flex;
   justify-content: flex-end;
   align-items: center;
   z-index: 1000;
   background: var(--paper);
-  border-bottom: 2px solid var(--ink);
   /* animation: slideDown 0.8s cubic-bezier(0.16, 1, 0.3, 1); */
 }
 .navbar {
